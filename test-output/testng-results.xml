@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-09T21:26:55 IST" name="Suite" finished-at="2022-04-09T21:28:06 IST" duration-ms="71333">
+    <groups>
+    </groups>
+    <test started-at="2022-04-09T21:26:55 IST" name="Test" finished-at="2022-04-09T21:28:06 IST" duration-ms="71333">
+      <class name="testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@7e07db1f]" started-at="2022-04-09T21:26:55 IST" name="setup" finished-at="2022-04-09T21:27:55 IST" duration-ms="60012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pagetitletest()[pri:1, instance:testcases.LoginPageTest@7e07db1f]" started-at="2022-04-09T21:27:55 IST" name="pagetitletest" finished-at="2022-04-09T21:27:55 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagetitletest -->
+        <test-method signature="validateloginid()[pri:2, instance:testcases.LoginPageTest@7e07db1f]" started-at="2022-04-09T21:27:55 IST" name="validateloginid" finished-at="2022-04-09T21:27:55 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateloginid -->
+        <test-method signature="enterloginid()[pri:3, instance:testcases.LoginPageTest@7e07db1f]" started-at="2022-04-09T21:27:55 IST" name="enterloginid" finished-at="2022-04-09T21:27:57 IST" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterloginid -->
+        <test-method signature="validatepass()[pri:4, instance:testcases.LoginPageTest@7e07db1f]" started-at="2022-04-09T21:27:57 IST" name="validatepass" finished-at="2022-04-09T21:27:57 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatepass -->
+        <test-method signature="enterpasswrd()[pri:5, instance:testcases.LoginPageTest@7e07db1f]" started-at="2022-04-09T21:27:57 IST" name="enterpasswrd" finished-at="2022-04-09T21:27:58 IST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterpasswrd -->
+        <test-method signature="submitcredentials()[pri:6, instance:testcases.LoginPageTest@7e07db1f]" started-at="2022-04-09T21:27:58 IST" name="submitcredentials" finished-at="2022-04-09T21:28:04 IST" duration-ms="6732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitcredentials -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.LoginPageTest@7e07db1f]" started-at="2022-04-09T21:28:04 IST" name="quit" finished-at="2022-04-09T21:28:06 IST" duration-ms="1538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
